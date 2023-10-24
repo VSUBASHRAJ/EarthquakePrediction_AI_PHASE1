@@ -1,1 +1,1 @@
-# EarthquakePrediction_AI_PHASE1
+# EarthquakePrediction_AI_PHASES
